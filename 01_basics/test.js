@@ -1,1 +1,1 @@
-console.log("Hasnain Malik Malik")
+console.log("Hasnain Malik")
